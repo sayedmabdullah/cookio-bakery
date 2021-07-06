@@ -142,21 +142,28 @@ header {
 }
 
 .followers-area {
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 
 .followrs-item {
     width: 33.33%;
     text-align: center;
+    padding: 20px 0;
 }
 
 .followrs {
     box-shadow: 5px 5px 15px gray;
-    margin: 0 2%;
+    margin: 0 3%;
+    border-radius: 20px;
+    justify-content: center;
 }
 
-.followrs-item p {
-    margin-top: -45px;
+.followrs-item p  {
+    margin: 0;
+}
+
+.followrs-item h1 {
+    margin: 0;
 }
 
 .footer {
